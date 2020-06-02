@@ -1,0 +1,38 @@
+#
+# Criador ~ EliasDev
+# Versao ~ 1.4 ~ BETA
+# Nome ~ eVIPInfo
+#
+# Em Breve mais opcoes configuraveis, funcoes no plugin!
+#
+
+
+#Defina o prefixo do plugin;
+Prefixo: "&e&lVIPS "
+
+#Defina o prefixo de erro do plugin;
+PrefixoErro: "&4&lERROR "
+
+#Defina o nome do inventario;
+Inventario: "&7Info dos VIPs do servidor:"
+
+#Defina a mensagem de erro ao abrir o inventario;
+Erro: "&cErro ao carregar o menu."
+
+#Defina a mensagem de carregamento do inventario;
+Carregando: "&aCarregando o menu, espere.."
+
+#Defina a mensagem de quando carregado o inventario;
+Carregado: "&aO Menu foi carregado com sucesso."
+
+Tipos:
+  VIP1: VIP
+  VIP2: VIP+
+  VIP3: MVP
+  VIP4: MVP+
+  
+Prefixos:
+  VIP1: "§a[VIP]"
+  VIP2: "§a[VIP§f+§a]"
+  VIP3: "§b[MVP]"
+  VIP4: "§b[MVP§f+§b]"
